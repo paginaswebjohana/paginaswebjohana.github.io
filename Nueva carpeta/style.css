@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+  }
+  
+  body {
+    background-image: url('fondo.jpg');
+  }
+  
+  .form-register {
+    width: 1270px;
+    background: #061d35;
+    height: 2055px;
+    padding: 30px;
+    margin: center;
+    margin-top: 10px;
+    border: ;
+
+    border-radius: 45px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .controls {
+    width: 100%;
+    background: #9c94a1;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #435781;
+    font-family: 'calibri';
+    font-size: 20px;
+    color: white;
+  }
+  
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .form-register a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 100%;
+    background: #0943c9;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+  }
+  .Parrafo {
+    display: flex;
+    margin-inline-start: 0cm;
+    margin-block-end: 7cm;
+    margin-left: 2cm;
+    font-size: medium;
+
+  }
+
+  .Parrafodos {
+    display: flex;
+    margin-inline-start: 0cm;
+    margin-block-end: 5cm;
+    margin-left: 1cm;
+    font-size: medium;
+
+  }
